@@ -11,7 +11,7 @@ BUTTON_NORMAL = (70, 130, 180)  # 按钮正常颜色
 BUTTON_HOVER = (100, 149, 237)   # 按钮悬停颜色
 
 # 倒计时设置
-GAME_DURATION = 60  # 游戏总时长（秒）
+GAME_DURATION = 20  # 游戏总时长（秒）
 
 # 按钮设置
 BUTTON_WIDTH = 120
